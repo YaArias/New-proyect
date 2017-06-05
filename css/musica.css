@@ -1,0 +1,46 @@
+	* {
+    box-sizing: border-box;
+	}
+
+	body{font-family: ariel,vernada;
+		background-image:url(../imagenes/musica2.jpg);
+		font-style:blique;
+		color: red;
+	}
+			
+	h1{ background-color:#80ccff;
+		text-align: center;
+		color: black;
+		font-size: 60px;
+		}
+		
+	ol{text-align: left;
+		}
+		
+	p {text-align:justify;
+		color:black;
+		margin: 100px;
+		border: 5px,10px,5px,10px;
+		clear:right;
+		 font-style:oblique;
+		 font-size: 150%;
+		 }
+		 
+	ol>a:hover {background-color:#bfb3a6;
+			font-size: 20px;
+			text-decoration:  blink;
+			color:#ff0080;
+			border:solid red;}
+			
+	ol>h2{ color:#ff0040;
+			font-size: 45px;}
+			
+			
+	footer{ background-color:#bfb3a6;}
+	
+	.wrapper{width:940px;
+			margin:20 outo, 20 outo;
+			background-color:white;
+			border:2px solid #00000;
+			margin-left:180px;
+			}
